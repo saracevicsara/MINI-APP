@@ -6,7 +6,7 @@ import classes from "./Home.module.css";
 const Home = (props) => {
   return (
     <Card className={classes.home}>
-      <h1>Welcome back!</h1>
+      <h1>a ne ne, samo react</h1>
     </Card>
   );
 };
